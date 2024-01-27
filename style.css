@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color:#445D48 ;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    list-style: none;
+    margin: 0 25px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover {
+    color:#E8AA42;
+    font-size: 1.02rem;
+}
+.left {
+    font-size: 1.4rem;
+}
