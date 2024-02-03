@@ -24,3 +24,13 @@ nav ul li a:hover {
 .left {
     font-size: 1.4rem;
 }
+.footer {
+    background-color: #3C3633;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+  }
