@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 nav {
     display: flex;
     justify-content: space-around;
@@ -33,4 +36,10 @@ nav ul li a:hover {
     position: fixed;
     left: 0px;
     right: 0px;
+  }
+  .im{
+    height: 100vh;
+   background:url(./Train\ image1.jpg);
+   background-size: cover;
+   
   }
